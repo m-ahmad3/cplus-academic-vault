@@ -4,11 +4,6 @@ A curated collection of C++ programs developed during my academic coursework. Th
 
 ---
 
-## 📂 Directory Structure
-
-
----
-
 ## 🧠 Key Concepts Covered
 
 - Data types & variables
