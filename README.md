@@ -1,0 +1,1 @@
+A collection of C++ programs developed throughout my academic journey. This repository includes assignments, practice exercises, and project work, showcasing core programming concepts, problem-solving techniques, and algorithm implementation in C++.
